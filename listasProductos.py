@@ -1,4 +1,3 @@
-
 #Lista de catogoría de productos
 
 productos = []
@@ -61,3 +60,4 @@ Espe.append((1, "Caldo de costilla           ",3500))
 Espe.append((2, "Caldo de pajarilla          ",3500))
 Espe.append((3, "Tamal                       ",3000))
 Espe.append((4, "Lechona                     ",4500))
+
